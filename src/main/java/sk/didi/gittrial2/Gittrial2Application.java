@@ -9,5 +9,7 @@ public class Gittrial2Application {
     public static void main(String[] args) {
         SpringApplication.run(Gittrial2Application.class, args);
         System.out.println("I am Git Sample");
+        System.out.println("I am new branch");
+
     }
 }
