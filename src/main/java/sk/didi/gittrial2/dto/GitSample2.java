@@ -5,5 +5,5 @@ import lombok.Data;
 @Data
 public class GitSample2 {
     private String workPosition;
-    private int months;
+    private String months;
 }
