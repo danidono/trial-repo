@@ -10,5 +10,6 @@ public class GitSamle3 {
 
     public void print(String desiredHobby){
         System.out.println(desiredHobby);
+        System.out.println("Brancha-novej-Branche");
     }
 }
